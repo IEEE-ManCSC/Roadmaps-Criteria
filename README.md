@@ -5,23 +5,23 @@
 A Roadmap is a valuable tool for students as it aims for setting a specific and well-organized plan to study a specific track. In order to ensure roadmap's effectiveness, we have set a set of criteria that we will explain in this document. 
 
 الرودماب هو أداة قيمة للطلاب حيث يهدف إلى وضع خطة محددة ومنظمة لدراسة مسار معين. ولضمان فعالية الرودماب، وضعنا مجموعة من المعايير التي سنشرحها في هذا المستند.
-<br>
-<br>
+<br/>
+<br/>
 
 
 These criteria should include a thorough assessment of the student's academic strengths and weaknesses, a realistic timeline for completing coursework, and a flexible plan for regular review and updates. 
 
 يجب أن تشمل هذه المعايير تقييما شاملا لنقاط قوة وضعف الطالب الأكاديمية، وجدول زمني واقعي لإكمال الدورات، وخطة مرنة للمراجعة والتحديثات الدورية.
 
-<br>
+<br/>
 
 ## **Why should we follow these criteria?**
 ---
-<br>
+<br/>
 <div style="display: flex;align-items:center;">
   <div><img src="./images/criteria-cover.jpg" width="100%"/></div>
 </div>
-<br>
+<br/>
 
 By following these criteria, an expert can create a roadmap that serves as:
 - A comprehensive guide for achieving academic success.
@@ -38,7 +38,7 @@ By following these criteria, an expert can create a roadmap that serves as:
   <li>رودماب دراسي مصمم بشكل جيد، حتى يتمكن الطلاب من البقاء على المسار الصحيح، والتركيز، وتحقيق أهدافهم.</li>
 </ul>
 </div>
-<br>
+<br/>
 
 ## **What are the Roadmap Criteria?**
 ---
@@ -181,7 +181,4 @@ It should be organized and structured in a way that facilitates the learner's na
 - [FaceBook](https://www.facebook.com/ieeemancsc)
 - [LinkedIn](https://www.linkedin.com/company/ieeemancsc/)
 - [YouTube](https://www.youtube.com/channel/UCqXBZM5eGl7fs1Vzwvlc8CQ)
-- Gmail : ieeemancsc@gmail.com#   R o a d m a p s - C r i t e r i a 
- 
- #   R o a d m a p s - C r i t e r i a  
- 
+- Gmail : ieeemancsc@gmail.com
